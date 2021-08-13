@@ -1,12 +1,12 @@
-# Tặng Partner của tớ ^^
+# Tặng Partner của mình -)))
 ## _Một điều nho nhỏ_
 
 
 
 ```
 const CONFIG = {
-    introTitle: 'Ourano này',
-    introDesc: `Nskakama`,
+    introTitle: 'này',
+    introDesc: ` Em là giấc mơ của tôi. `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
